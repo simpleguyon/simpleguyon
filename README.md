@@ -11,5 +11,5 @@ I am Dheeraj Bhandaru. My main interest lies in ML and NLP. I enjoy creating das
 - 🤔 I’m looking for help with **Web Development**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
-- 😄 Pronouns: You can give me one
+- 😄 Pronouns: *He*/*Him*
 - ⚡ Fun fact: I am great at multitasking
