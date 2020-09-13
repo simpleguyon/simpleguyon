@@ -7,7 +7,7 @@ I am Dheeraj Bhandaru. My main interest lies in ML and NLP. I enjoy creating das
 
 - 🔭 I’m currently pursuing MBA in Business Analytics
 - 🌱 I’m currently learning **Text analytics** 
-- 👯 I’m looking to collaborate on projects related to **NLP** and **Computer Vision**
+- 👯 I’m looking to collaborate on projects related to **NLP**,**ML** and **Python**
 - 🤔 I’m looking for help with **Web Development**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
