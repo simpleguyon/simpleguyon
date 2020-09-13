@@ -1,4 +1,4 @@
-# Dheeraj Bhandaru :bowtie:
+# Dheeraj Bhandaru 
 [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dheerajbhandaru/)
 [![](https://github.com/arpit-dwivedi/arpit-dwivedi/raw/master/kaggle.png)](https://www.kaggle.com/castiger)
 ### Hi there 👋
