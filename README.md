@@ -5,8 +5,8 @@
 
 I am Dheeraj Bhandaru. My main interest lies in ML and NLP. I enjoy creating dashboards on Tableau. I am curious to find insights from data and bring value to the table. I am very keen about learning newer technologies in the field of analytics.                   
 
-- 🔭 I’m currently working on **ML** and **Tableau**
-- 🌱 I’m currently learning **Text analytics**
+- 🔭 I’m currently pursuing MBA in Business Analytics
+- 🌱 I’m currently learning **Text analytics** 
 - 👯 I’m looking to collaborate on projects related to **NLP** and **Computer Vision**
 - 🤔 I’m looking for help with **Web Development**
 - 💬 Ask me about **ML** & **Python**
