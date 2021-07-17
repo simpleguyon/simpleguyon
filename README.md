@@ -3,7 +3,7 @@
 [![](https://github.com/arpit-dwivedi/arpit-dwivedi/raw/master/kaggle.png)](https://www.kaggle.com/castiger)
 ### Hi there 👋
 
-I am Dheeraj Bhandaru. My main interest lies in ML and NLP. I enjoy creating dashboards on Tableau. I am curious to find insights from data and bring value to the table. I am very keen about learning newer technologies in the field of analytics. :smiley:                  
+I am Dheeraj Bhandaru. I am curious to find insights from data and bring value to the table. I am very keen about learning new technologies in the field of analytics. :smiley:                  
 
 - 🔭 I’m currently pursuing MBA in Business Analytics
 - 🌱 I’m currently learning **Tableau**, and **Power-BI**
