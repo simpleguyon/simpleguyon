@@ -8,7 +8,7 @@ I am Dheeraj Bhandaru. I am curious to find insights from data and bring value t
 - 🔭 I’m currently pursuing MBA in Business Analytics
 - 🌱 I’m currently learning **Tableau**, and **Power-BI**
 - 👯 I’m looking to collaborate on projects related to **NLP**, **ML** and **Python**
-- 🤔 I’m looking for help with **Web Development**
+- 🤔 I’m looking for help with **Deployment**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
 - 😄 Pronouns: *He*/*Him*
