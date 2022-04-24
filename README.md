@@ -7,7 +7,7 @@ I am Dheeraj Bhandaru. I am curious to find insights from data and bring value t
 
 - 🔭 I’m currently working as a Data Scientist 
 - 🌱 I’m currently learning **AWS** and **Docker**
-- 👯 I’m looking to collaborate on projects related to **NLP**, **ML** and **Python**
+- 👯 I’m looking to collaborate on projects related to **NLP**, **Computer Vision** and **Python**
 - 🤔 I’m looking for help with **Deployment**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
