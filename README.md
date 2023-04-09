@@ -11,5 +11,4 @@ I am Dheeraj Bhandaru. I am curious to find insights from data and bring value t
 - 🤔 I’m looking for help with **Deployment**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
-- 😄 Pronouns: *He*/*Him*
 - ⚡ Fun fact: I am great at multitasking
