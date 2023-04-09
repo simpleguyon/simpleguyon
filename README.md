@@ -6,9 +6,9 @@
 I am Dheeraj Bhandaru. I am curious to find insights from data and bring value to the table. I am very keen about learning new technologies in the field of analytics. :smiley:                  
 
 - 🔭 I’m currently working as a Data Scientist 
-- 🌱 I’m currently learning **AWS** and **Docker**
+- 🌱 I’m currently learning **Cloud Computing**
 - 👯 I’m looking to collaborate on projects related to **NLP** , **Time Series** and **Deep Learning**
-- 🤔 I’m looking for help with **Deployment**
+- 🤔 I’m looking for help with **MLOps**
 - 💬 Ask me about **ML** & **Python**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
 - ⚡ Fun fact: I am great at multitasking
