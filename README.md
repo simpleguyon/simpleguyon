@@ -3,10 +3,10 @@
 [![](https://github.com/arpit-dwivedi/arpit-dwivedi/raw/master/kaggle.png)](https://www.kaggle.com/castiger)
 ### Hi there 👋
 
-I am Dheeraj Bhandaru. I am curious to find insights from data and bring value to the table. I am very keen about learning new technologies in the field of analytics. :smiley:                  
+I am Dheeraj Bhandaru. I have 3+ years of workex in Data Science. I have worked on wide range of projects across industries like Food, Automotive and IOT, utilizing my skills in Python, SQL and Cloud. I am curious to find valuable insights from complex data and build predictive models around it. :smiley:                  
 
 - 🔭 I’m currently working as a **Data Scientist** 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on projects related to **NLP** , **Time Series** and **Deep Learning**
 - 🤔 I’m looking for help with **MLOps**
 - 💬 Ask me about **ML** & **Python**
