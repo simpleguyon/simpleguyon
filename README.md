@@ -9,6 +9,6 @@ I am Dheeraj Bhandaru. I have 3+ years of workex in Data Science. I have worked 
 - 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on projects related to  **Cloud** and **Machine Learning**
 - 🤔 I’m looking for help with **MLOps**
-- 💬 Ask me about **Fitness** & **Sports**
+- 💬 Ask me about **Fitness** & **Running**
 - 📫 How to reach me: Contact me on bhandaru.dheeraj@gmail.com
 - ⚡ Fun fact: I am a good Story Teller
